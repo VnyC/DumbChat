@@ -23,7 +23,6 @@ const trigger = [
   ["what should i eat today"],
   ["bro"],
   ["what", "why", "how", "where", "when"],
-  ["travel","trip","holiday","vacation","flight","hotel"],
   ["i am amruta","im amruta"]
 ];
 
@@ -54,17 +53,15 @@ const reply = [
   ["Sushi", "Pizza"],
   ["Bro!"],
   ["Yes?"],
-  ["Travel safe, book with travelxp for total assurance"],
   ["Hi Amu!, Do you remember your passwords?"]
 ];
 
 const alternative = [
-  "Travel Safe, Contact Customer Support for further query."
+  "Not an Option"
 ];
 
-const Travel = ["Travel Safe, Contact Customer Support for further query."];
 
-const coronavirus = ["Please stay home, Travel only if no other option."];
+const coronavirus = ["Please stay home"];
 
 
 
